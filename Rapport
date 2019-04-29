@@ -1,0 +1,5 @@
+1. instances de Taillard :
+La prmeière matrice représente l'ensemble des distances entre les emplacements (l'ensemble des d, on voit par ailleurs que la diagonale est bien nulle)
+La deuxième matrice représente l'ensemble des poids entre équipements (la fonction w)
+
+2. voisinages utilisés
